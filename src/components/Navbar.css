@@ -1,0 +1,15 @@
+ .Navbar {
+    padding: 20px;
+    background: #ff8080;
+    color: #f2f2f2;
+    text-align: center;
+    font-weight: 800;
+    font-size: 125%;
+}
+
+.top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
